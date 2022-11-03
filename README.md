@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADEL-tec
 - 👀 I’m interested in Software Engeneer
-- 🌱 I’m currently learning Mobile Applications
+- 🌱 I'm currently do Mobile Applications
 - 💞️ I’m looking to collaborate on any mobile apps project
 - 📫 How to reach me "meriouaadel22@gmail.com"
 
